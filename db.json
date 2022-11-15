@@ -28,6 +28,30 @@
       
     }
   ],
+  
+  "comentarios":[
+  {
+    "id": 2,
+    "idUser": 2,
+    "nameUser": "Juan",
+    "img": "https://conceptodefinicion.de/wp-content/uploads/2016/01/Perfil2.jpg",
+    "idPizzas": 2,
+    "comentario": "Regular",
+    "puntuacion": 3,
+    "tiempo": "4d ago"
+  },
+  {
+    "id": 1,
+    "idUser": 1,
+    "nameUser": "Carlos",
+    "img": "https://www.smartplacement.net/hubfs/Imported_Blog_Media/perfil-consultor-exitoso.jpg",
+    "idPizzas": 1,
+    "comentario": "Muy buena",
+    "puntuacion": 5,
+    "tiempo": "4d ago"
+  }
+],
+  
   "pizzas": [
     {
       "id": 1,
@@ -100,4 +124,6 @@
       "img": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg"
     }
   ]
+  
+  
 }
