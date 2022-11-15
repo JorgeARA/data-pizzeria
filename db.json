@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jorge",
+      "email": "jorge.restrepo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Andrés",
+      "email": "andres.restrepo@gmail.com",
+      "password": "654321",
+      "id": 2
+    },
+    {
+      "name": "Mateo",
+      "email": "mateo.rios@gmail.com",
+      "password": "678901",
+      "id": 3
+    },
+    {
+      "name": "Pedro",
+      "email": "pedro123@gmail.com",
+      "password": "234567",
+      "id": 4
+    }
+  ],
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pizza de la casa",
+      "description": "Nuestra receta especial que la competencia no ha podido copiar.",
+      "price": 25000,
+      "image": "https://tvpacifico.mx/recetas/intranet/images/recipes/330-349.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pizza explosión de sabores",
+      "description": "Te transportarás al cielo con estas sensaciones en tu boca.",
+      "price": 22000,
+      "image": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pizza gamer",
+      "description": "La disfrutarás tanto como llegar al final de super Mario.",
+      "price": 28000,
+      "image": "https://pbs.twimg.com/media/BIYkT-hCUAIPskr.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pizza extra queso con bordes rellenos",
+      "description": "Para ti que siempre quieres un poco más de queso",
+      "price": 32000,
+      "image": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Pizza de carnes de la región",
+      "description": "Pídela y descubre de qué región estamos habloando",
+      "price": 35000,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cb/23/ca/pizza-tres-carnes.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pizza vegetariana saludable",
+      "description": "Disfrútala mientras te cuidas",
+      "price": 20000,
+      "image": "https://lavidaalvapor.com/wp-content/uploads/2019/10/pizza-vegetariana.png"
+    },
+    {
+      "id": 7,
+      "name": "Pizza multi quesos",
+      "description": "Probarla es una experiencia que activará todos tus sentidos.",
+      "price": 26000,
+      "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pizza de jamón, queso y algo más...",
+      "description": "Ven y ponle tu toque personal a ese algo más",
+      "price": 24000,
+      "image": "https://thumbs.dreamstime.com/z/italian-mix-pizza-beer-italian-mix-pizza-cola-beer-souce-156019522.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pizza cuadrada",
+      "description": "Para ti que te gusta disfrutar la vida de otras formas",
+      "price": 29000,
+      "image": "https://st2.depositphotos.com/1177973/8125/i/950/depositphotos_81250314-stock-photo-delicious-homemade-pizza-isolated-on.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pizza con piña y lecherita ",
+      "description": "La pizza que pocos quieren pero sabemos que a ti te encanta.",
+      "price": 23000,
+      "image": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg"
+    }
+  ]
+}
