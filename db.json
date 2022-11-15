@@ -52,76 +52,96 @@
   }
 ],
   
-  "pizzas": [
+ "pizzas": [
     {
       "id": 1,
       "name": "Pizza de la casa",
       "descripcion": "Nuestra receta especial que la competencia no ha podido copiar.",
       "precio": 25000,
-      "img": "https://tvpacifico.mx/recetas/intranet/images/recipes/330-349.jpg"
+      "img": "https://tvpacifico.mx/recetas/intranet/images/recipes/330-349.jpg",
+      "img2": "https://tvpacifico.mx/recetas/intranet/images/recipes/330-349.jpg",
+      "img3": "https://tvpacifico.mx/recetas/intranet/images/recipes/330-349.jpg"
     },
     {
       "id": 2,
       "name": "Pizza explosión de sabores",
       "descripcion": "Te transportarás al cielo con estas sensaciones en tu boca.",
       "precio": 22000,
-      "img": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg"
+      "img": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg",
+      "img2": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg",
+      "img3": "https://i.pinimg.com/736x/d5/9b/8b/d59b8bd105d0432398175b856644f580.jpg"
     },
     {
       "id": 3,
       "name": "Pizza gamer",
       "descripcion": "La disfrutarás tanto como llegar al final de super Mario.",
       "precio": 28000,
-      "img": "https://pbs.twimg.com/media/BIYkT-hCUAIPskr.jpg"
+      "img": "https://pbs.twimg.com/media/BIYkT-hCUAIPskr.jpg",
+      "img2": "https://pbs.twimg.com/media/BIYkT-hCUAIPskr.jpg",
+      "img3": "https://pbs.twimg.com/media/BIYkT-hCUAIPskr.jpg"
     },
     {
       "id": 4,
       "name": "Pizza extra queso con bordes rellenos",
       "descripcion": "Para ti que siempre quieres un poco más de queso",
       "precio": 32000,
-      "img": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg"
+      "img": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg",
+      "img2": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg",
+      "img3": "https://s4d-images.telepizza.es/Products/Original/Carbonara-2616.jpeg"
     },
     {
       "id": 5,
       "name": "Pizza de carnes de la región",
       "descripcion": "Pídela y descubre de qué región estamos habloando",
       "precio": 35000,
-      "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cb/23/ca/pizza-tres-carnes.jpg"
+      "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cb/23/ca/pizza-tres-carnes.jpg",
+      "img2": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cb/23/ca/pizza-tres-carnes.jpg",
+      "img3": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/cb/23/ca/pizza-tres-carnes.jpg"
     },
     {
       "id": 6,
       "name": "Pizza vegetariana saludable",
       "descripcion": "Disfrútala mientras te cuidas",
       "precio": 20000,
-      "img": "https://lavidaalvapor.com/wp-content/uploads/2019/10/pizza-vegetariana.png"
+      "img": "https://lavidaalvapor.com/wp-content/uploads/2019/10/pizza-vegetariana.png",
+      "img2": "https://lavidaalvapor.com/wp-content/uploads/2019/10/pizza-vegetariana.png",
+      "img3": "https://lavidaalvapor.com/wp-content/uploads/2019/10/pizza-vegetariana.png"
     },
     {
       "id": 7,
       "name": "Pizza multi quesos",
       "descripcion": "Probarla es una experiencia que activará todos tus sentidos.",
       "precio": 26000,
-      "img": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg"
+      "img": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg",
+      "img2": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg",
+      "img3": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg"
     },
     {
       "id": 8,
       "name": "Pizza de jamón, queso y algo más...",
       "descripcion": "Ven y ponle tu toque personal a ese algo más",
       "precio": 24000,
-      "img": "https://thumbs.dreamstime.com/z/italian-mix-pizza-beer-italian-mix-pizza-cola-beer-souce-156019522.jpg"
+      "img": "https://thumbs.dreamstime.com/z/italian-mix-pizza-beer-italian-mix-pizza-cola-beer-souce-156019522.jpg",
+      "img2": "https://thumbs.dreamstime.com/z/italian-mix-pizza-beer-italian-mix-pizza-cola-beer-souce-156019522.jpg",
+      "img3": "https://thumbs.dreamstime.com/z/italian-mix-pizza-beer-italian-mix-pizza-cola-beer-souce-156019522.jpg"
     },
     {
       "id": 9,
       "name": "Pizza cuadrada",
       "descripcion": "Para ti que te gusta disfrutar la vida de otras formas",
       "precio": 29000,
-      "img": "https://st2.depositphotos.com/1177973/8125/i/950/depositphotos_81250314-stock-photo-delicious-homemade-pizza-isolated-on.jpg"
+      "img": "https://st2.depositphotos.com/1177973/8125/i/950/depositphotos_81250314-stock-photo-delicious-homemade-pizza-isolated-on.jpg",
+      "img2": "https://st2.depositphotos.com/1177973/8125/i/950/depositphotos_81250314-stock-photo-delicious-homemade-pizza-isolated-on.jpg",
+      "img3": "https://st2.depositphotos.com/1177973/8125/i/950/depositphotos_81250314-stock-photo-delicious-homemade-pizza-isolated-on.jpg"
     },
     {
       "id": 10,
       "name": "Pizza con piña y lecherita ",
       "descripcion": "La pizza que pocos quieren pero sabemos que a ti te encanta.",
       "precio": 23000,
-      "img": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg"
+      "img": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg",
+      "img2": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg",
+      "img3": "https://i.pinimg.com/564x/b4/f7/11/b4f711952bf194e36b9794eccecb1ca7.jpg"
     }
   ]
   
